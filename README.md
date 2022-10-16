@@ -1,7 +1,5 @@
 # Snake Game - Pygame
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
@@ -10,11 +8,11 @@
 
 <img src="imagem.png" alt="exemplo imagem">
 
-Baixar pygame:
+How to install the pygame:
 ```
 pip install pygame
 ```
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Credits:<br>
 
-O [freemusicarchive](https://freemusicarchive.org/music/) e o [themushroomkingdom](https://themushroomkingdom.net/media/smw/wav) foram os sites que eu utilizei para pegar os áudios.
+The [freemusicarchive](https://freemusicarchive.org/music/) and [themushroomkingdom](https://themushroomkingdom.net/media/smw/wav) were the sites I got the sounds that was used in the game.
